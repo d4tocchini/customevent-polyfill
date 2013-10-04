@@ -1,7 +1,7 @@
 CustomEvent Polyfill
 ====================
 
-> HTML CustomEvent Polyfill that works with PhantomJS & modern browsers & packaged as for [component.io](http://component.io/)
+> HTML CustomEvent Polyfill that works with PhantomJS & modern browsers & packaged for [component.io](http://component.io/)
 
 ### Why?  
 
