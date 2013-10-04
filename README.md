@@ -16,3 +16,4 @@ require('gss-preparser');
 // ...
 ```
 
+Or, just hack & paste CustomEvent.js
