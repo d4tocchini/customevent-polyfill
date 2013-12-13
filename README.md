@@ -5,7 +5,7 @@ CustomEvent Polyfill
 
 ### Why?  
 
-Because [MDN's polyfill](developer.mozilla.org/en-US/docs/Web/API/CustomEvent) has a typo & CustomEvents don't work in PhantomJS.
+Because [MDN's polyfill](https://developer.mozilla.org/en-US/docs/Web/API/CustomEvent) has a typo & CustomEvents don't work in PhantomJS.
 
 ### Usage
 
